@@ -1,1 +1,2 @@
-# Signal-Strength-Prediction-using-Neural-Networks
+- Built a regression model as well as classification model along with EDA and Feature Engineering techniques.
+- Built a Tkinter app that would automatically train the classifier and regressor models and save it.
